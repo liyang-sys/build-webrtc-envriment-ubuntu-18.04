@@ -21,4 +21,4 @@ apt-get install -y default-jre
 apt-get install -y default-jdk
 apt-get install -y lzop
 
-sudo apt-get install libglib2.0-dev //这个一点得装
+sudo apt-get install libglib2.0-dev //这个一定得装
